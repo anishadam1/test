@@ -126,10 +126,4 @@ for i in range(0, length):
         print("*" + "", end='')
     print()
 
-'''for i in range(1,length+1):
-    for j in range(1,length+1):
-        if(j<i):
-            print("*",end='')
-        else:
-            print("*",end='')
-        print()'''
+print("==================================================")
