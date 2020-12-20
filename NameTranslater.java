@@ -1,5 +1,6 @@
 //Anisha Dam
 //Lab # 2
+//Name Translater 
 
 public class NameTranslater {
 
